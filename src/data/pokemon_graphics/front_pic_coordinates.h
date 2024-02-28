@@ -670,6 +670,16 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 0,
     },
+    [SPECIES_MAGIKARP1] =
+    {
+        .size = MON_COORDS_SIZE(56, 56),
+        .y_offset = 11,
+    },
+    [SPECIES_GYARADOS1] =
+    {
+        .size = MON_COORDS_SIZE(64, 64),
+        .y_offset = 0,
+    },
     [SPECIES_LAPRAS] =
     {
         .size = MON_COORDS_SIZE(64, 56),

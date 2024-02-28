@@ -929,6 +929,20 @@ const u32 gMonShinyPalette_Gyarados[] = INCBIN_U32("graphics/pokemon/gyarados/sh
 const u8 gMonIcon_Gyarados[] = INCBIN_U8("graphics/pokemon/gyarados/icon.4bpp");
 const u8 gMonFootprint_Gyarados[] = INCBIN_U8("graphics/pokemon/gyarados/footprint.1bpp");
 
+const u32 gMonFrontPic_Magikarp1[] = INCBIN_U32("graphics/pokemon/magikarp1/front.4bpp.lz");
+const u32 gMonPalette_Magikarp1[] = INCBIN_U32("graphics/pokemon/magikarp1/shiny.gbapal.lz");
+const u32 gMonBackPic_Magikarp1[] = INCBIN_U32("graphics/pokemon/magikarp1/back.4bpp.lz");
+const u32 gMonShinyPalette_Magikarp1[] = INCBIN_U32("graphics/pokemon/magikarp1/shiny.gbapal.lz");
+const u8 gMonIcon_Magikarp1[] = INCBIN_U8("graphics/pokemon/magikarp1/icon.4bpp");
+const u8 gMonFootprint_Magikarp1[] = INCBIN_U8("graphics/pokemon/magikarp1/footprint.1bpp");
+
+const u32 gMonFrontPic_Gyarados1[] = INCBIN_U32("graphics/pokemon/gyarados1/front.4bpp.lz");
+const u32 gMonPalette_Gyarados1[] = INCBIN_U32("graphics/pokemon/gyarados1/shiny.gbapal.lz");
+const u32 gMonBackPic_Gyarados1[] = INCBIN_U32("graphics/pokemon/gyarados1/back.4bpp.lz");
+const u32 gMonShinyPalette_Gyarados1[] = INCBIN_U32("graphics/pokemon/gyarados1/shiny.gbapal.lz");
+const u8 gMonIcon_Gyarados1[] = INCBIN_U8("graphics/pokemon/gyarados1/icon.4bpp");
+const u8 gMonFootprint_Gyarados1[] = INCBIN_U8("graphics/pokemon/gyarados1/footprint.1bpp");
+
 const u32 gMonFrontPic_Lapras[] = INCBIN_U32("graphics/pokemon/lapras/front.4bpp.lz");
 const u32 gMonPalette_Lapras[] = INCBIN_U32("graphics/pokemon/lapras/normal.gbapal.lz");
 const u32 gMonBackPic_Lapras[] = INCBIN_U32("graphics/pokemon/lapras/back.4bpp.lz");
