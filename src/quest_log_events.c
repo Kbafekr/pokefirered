@@ -1836,6 +1836,7 @@ static bool8 IsSpeciesFromSpecialEncounter(u16 species)
     switch (species)
     {
     case SPECIES_SNORLAX:
+    case SPECIES_SNORLAX2:
     case SPECIES_ARTICUNO:
     case SPECIES_ZAPDOS:
     case SPECIES_MOLTRES:

@@ -92,6 +92,9 @@ void ClearRoamerData(void)
     case SPECIES_CHARMANDER:\
         a = SPECIES_SUICUNE;\
         break;\
+    case SPECIES_CHARMANDER2:\
+        a = SPECIES_SUICUNE;\
+        break;\
     }\
     a;\
 })
