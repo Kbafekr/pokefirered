@@ -41,21 +41,21 @@ const u8 gMonIcon_Charizard[] = INCBIN_U8("graphics/pokemon/charizard/icon.4bpp"
 const u8 gMonFootprint_Charizard[] = INCBIN_U8("graphics/pokemon/charizard/footprint.1bpp");
 
 const u32 gMonFrontPic_Charmander2[] = INCBIN_U32("graphics/pokemon/charmander2/front.4bpp.lz");
-const u32 gMonPalette_Charmander2[] = INCBIN_U32("graphics/pokemon/charmander2/normal.gbapal.lz");
+const u32 gMonPalette_Charmander2[] = INCBIN_U32("graphics/pokemon/charmander2/shiny.gbapal.lz");
 const u32 gMonBackPic_Charmander2[] = INCBIN_U32("graphics/pokemon/charmander2/back.4bpp.lz");
 const u32 gMonShinyPalette_Charmander2[] = INCBIN_U32("graphics/pokemon/charmander2/shiny.gbapal.lz");
 const u8 gMonIcon_Charmander2[] = INCBIN_U8("graphics/pokemon/charmander2/icon.4bpp");
 const u8 gMonFootprint_Charmander2[] = INCBIN_U8("graphics/pokemon/charmander2/footprint.1bpp");
 
 const u32 gMonFrontPic_Charmeleon2[] = INCBIN_U32("graphics/pokemon/charmeleon2/front.4bpp.lz");
-const u32 gMonPalette_Charmeleon2[] = INCBIN_U32("graphics/pokemon/charmeleon2/normal.gbapal.lz");
+const u32 gMonPalette_Charmeleon2[] = INCBIN_U32("graphics/pokemon/charmeleon2/shiny.gbapal.lz");
 const u32 gMonBackPic_Charmeleon2[] = INCBIN_U32("graphics/pokemon/charmeleon2/back.4bpp.lz");
 const u32 gMonShinyPalette_Charmeleon2[] = INCBIN_U32("graphics/pokemon/charmeleon2/shiny.gbapal.lz");
 const u8 gMonIcon_Charmeleon2[] = INCBIN_U8("graphics/pokemon/charmeleon2/icon.4bpp");
 const u8 gMonFootprint_Charmeleon2[] = INCBIN_U8("graphics/pokemon/charmeleon2/footprint.1bpp");
 
 const u32 gMonFrontPic_Charizard2[] = INCBIN_U32("graphics/pokemon/charizard2/front.4bpp.lz");
-const u32 gMonPalette_Charizard2[] = INCBIN_U32("graphics/pokemon/charizard2/normal.gbapal.lz");
+const u32 gMonPalette_Charizard2[] = INCBIN_U32("graphics/pokemon/charizard2/shiny.gbapal.lz");
 const u32 gMonBackPic_Charizard2[] = INCBIN_U32("graphics/pokemon/charizard2/back.4bpp.lz");
 const u32 gMonShinyPalette_Charizard2[] = INCBIN_U32("graphics/pokemon/charizard2/shiny.gbapal.lz");
 const u8 gMonIcon_Charizard2[] = INCBIN_U8("graphics/pokemon/charizard2/icon.4bpp");
@@ -1021,7 +1021,7 @@ const u8 gMonIcon_Snorlax[] = INCBIN_U8("graphics/pokemon/snorlax/icon.4bpp");
 const u8 gMonFootprint_Snorlax[] = INCBIN_U8("graphics/pokemon/snorlax/footprint.1bpp");
 
 const u32 gMonFrontPic_Snorlax2[] = INCBIN_U32("graphics/pokemon/snorlax2/front.4bpp.lz");
-const u32 gMonPalette_Snorlax2[] = INCBIN_U32("graphics/pokemon/snorlax2/normal.gbapal.lz");
+const u32 gMonPalette_Snorlax2[] = INCBIN_U32("graphics/pokemon/snorlax2/shiny.gbapal.lz");
 const u32 gMonBackPic_Snorlax2[] = INCBIN_U32("graphics/pokemon/snorlax2/back.4bpp.lz");
 const u32 gMonShinyPalette_Snorlax2[] = INCBIN_U32("graphics/pokemon/snorlax2/shiny.gbapal.lz");
 const u8 gMonIcon_Snorlax2[] = INCBIN_U8("graphics/pokemon/snorlax2/icon.4bpp");

@@ -74,6 +74,39 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_ROCK_SLIDE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
+     [SPECIES_CHARMANDER2] = TUTOR(MOVE_MEGA_PUNCH)
+                         | TUTOR(MOVE_SWORDS_DANCE)
+                         | TUTOR(MOVE_MEGA_KICK)
+                         | TUTOR(MOVE_BODY_SLAM)
+                         | TUTOR(MOVE_DOUBLE_EDGE)
+                         | TUTOR(MOVE_COUNTER)
+                         | TUTOR(MOVE_SEISMIC_TOSS)
+                         | TUTOR(MOVE_MIMIC)
+                         | TUTOR(MOVE_ROCK_SLIDE)
+                         | TUTOR(MOVE_SUBSTITUTE),
+
+    [SPECIES_CHARMELEON2] = TUTOR(MOVE_MEGA_PUNCH)
+                         | TUTOR(MOVE_SWORDS_DANCE)
+                         | TUTOR(MOVE_MEGA_KICK)
+                         | TUTOR(MOVE_BODY_SLAM)
+                         | TUTOR(MOVE_DOUBLE_EDGE)
+                         | TUTOR(MOVE_COUNTER)
+                         | TUTOR(MOVE_SEISMIC_TOSS)
+                         | TUTOR(MOVE_MIMIC)
+                         | TUTOR(MOVE_ROCK_SLIDE)
+                         | TUTOR(MOVE_SUBSTITUTE),
+
+    [SPECIES_CHARIZARD2] = TUTOR(MOVE_MEGA_PUNCH)
+                        | TUTOR(MOVE_SWORDS_DANCE)
+                        | TUTOR(MOVE_MEGA_KICK)
+                        | TUTOR(MOVE_BODY_SLAM)
+                        | TUTOR(MOVE_DOUBLE_EDGE)
+                        | TUTOR(MOVE_COUNTER)
+                        | TUTOR(MOVE_SEISMIC_TOSS)
+                        | TUTOR(MOVE_MIMIC)
+                        | TUTOR(MOVE_ROCK_SLIDE)
+                        | TUTOR(MOVE_SUBSTITUTE),
+
     [SPECIES_SQUIRTLE] = TUTOR(MOVE_MEGA_PUNCH)
                        | TUTOR(MOVE_MEGA_KICK)
                        | TUTOR(MOVE_BODY_SLAM)
@@ -1027,6 +1060,17 @@ static const u16 sTutorLearnsets[] =
                          | TUTOR(MOVE_SUBSTITUTE),
 
     [SPECIES_SNORLAX] = TUTOR(MOVE_MEGA_PUNCH)
+                      | TUTOR(MOVE_MEGA_KICK)
+                      | TUTOR(MOVE_BODY_SLAM)
+                      | TUTOR(MOVE_DOUBLE_EDGE)
+                      | TUTOR(MOVE_COUNTER)
+                      | TUTOR(MOVE_SEISMIC_TOSS)
+                      | TUTOR(MOVE_MIMIC)
+                      | TUTOR(MOVE_METRONOME)
+                      | TUTOR(MOVE_ROCK_SLIDE)
+                      | TUTOR(MOVE_SUBSTITUTE),
+
+                          [SPECIES_SNORLAX2] = TUTOR(MOVE_MEGA_PUNCH)
                       | TUTOR(MOVE_MEGA_KICK)
                       | TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)

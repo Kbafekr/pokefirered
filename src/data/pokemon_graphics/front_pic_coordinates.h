@@ -35,6 +35,21 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 1,
     },
+    [SPECIES_CHARMANDER2] =
+    {
+        .size = MON_COORDS_SIZE(40, 40),
+        .y_offset = 13,
+    },
+    [SPECIES_CHARMELEON2] =
+    {
+        .size = MON_COORDS_SIZE(56, 48),
+        .y_offset = 9,
+    },
+    [SPECIES_CHARIZARD2] =
+    {
+        .size = MON_COORDS_SIZE(64, 64),
+        .y_offset = 1,
+    },
     [SPECIES_SQUIRTLE] =
     {
         .size = MON_COORDS_SIZE(48, 40),
@@ -716,6 +731,11 @@ const struct MonCoords gMonFrontPicCoords[] =
         .y_offset = 1,
     },
     [SPECIES_SNORLAX] =
+    {
+        .size = MON_COORDS_SIZE(64, 56),
+        .y_offset = 5,
+    },
+    [SPECIES_SNORLAX2] =
     {
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 5,

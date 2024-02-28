@@ -235,7 +235,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .eggGroups = {EGG_GROUP_MONSTER, EGG_GROUP_DRAGON},
         .abilities = {ABILITY_HUGE_POWER, ABILITY_NONE},
         .safariZoneFleeRate = 0,
-        .bodyColor = BODY_COLOR_BLACK,
+        .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
     [SPECIES_CHARMELEON2] =
@@ -264,7 +264,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .eggGroups = {EGG_GROUP_MONSTER, EGG_GROUP_DRAGON},
         .abilities = {ABILITY_INTIMIDATE, ABILITY_NONE},
         .safariZoneFleeRate = 0,
-        .bodyColor = BODY_COLOR_BLACK,
+        .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
     [SPECIES_CHARIZARD2] =
@@ -293,7 +293,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .eggGroups = {EGG_GROUP_MONSTER, EGG_GROUP_DRAGON},
         .abilities = {ABILITY_LEVITATE, ABILITY_NONE},
         .safariZoneFleeRate = 0,
-        .bodyColor = BODY_COLOR_BLACK,
+        .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
     [SPECIES_SQUIRTLE] =
@@ -4295,7 +4295,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .eggGroups = {EGG_GROUP_DITTO, EGG_GROUP_DITTO},
         .abilities = {ABILITY_WONDER_GUARD},
         .safariZoneFleeRate = 0,
-        .bodyColor = BODY_COLOR_PURPLE,
+        .bodyColor = BODY_COLOR_BLACK,
         .noFlip = FALSE,
     },
     [SPECIES_ARTICUNO] =
