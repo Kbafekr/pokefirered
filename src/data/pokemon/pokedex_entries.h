@@ -91,6 +91,45 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
 
+    [NATIONAL_DEX_CHARMANDER2] =
+    {
+        .categoryName = _("LIZARD"),
+        .height = 6,
+        .weight = 85,
+        .description = gCharmanderPokedexText,
+        .unusedDescription = gCharmanderPokedexTextUnused,
+        .pokemonScale = 410,
+        .pokemonOffset = 16,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_CHARMELEON2] =
+    {
+        .categoryName = _("FLAME"),
+        .height = 11,
+        .weight = 190,
+        .description = gCharmeleonPokedexText,
+        .unusedDescription = gCharmeleonPokedexTextUnused,
+        .pokemonScale = 294,
+        .pokemonOffset = 8,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_CHARIZARD2] =
+    {
+        .categoryName = _("FLAME"),
+        .height = 17,
+        .weight = 905,
+        .description = gCharizardPokedexText,
+        .unusedDescription = gCharizardPokedexTextUnused,
+        .pokemonScale = 271,
+        .pokemonOffset = 0,
+        .trainerScale = 317,
+        .trainerOffset = 3,
+    },
+
     [NATIONAL_DEX_SQUIRTLE] =
     {
         .categoryName = _("TINY TURTLE"),
@@ -1703,6 +1742,32 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 11,
     },
 
+    [NATIONAL_DEX_MAGIKARP1] =
+    {
+        .categoryName = _("FISH"),
+        .height = 9,
+        .weight = 100,
+        .description = gMagikarpPokedexText,
+        .unusedDescription = gMagikarpPokedexTextUnused,
+        .pokemonScale = 317,
+        .pokemonOffset = 4,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_GYARADOS1] =
+    {
+        .categoryName = _("ATROCIOUS"),
+        .height = 65,
+        .weight = 2350,
+        .description = gGyaradosPokedexText,
+        .unusedDescription = gGyaradosPokedexTextUnused,
+        .pokemonScale = 288,
+        .pokemonOffset = -1,
+        .trainerScale = 512,
+        .trainerOffset = 11,
+    },
+
     [NATIONAL_DEX_LAPRAS] =
     {
         .categoryName = _("TRANSPORT"),
@@ -1860,6 +1925,19 @@ const struct PokedexEntry gPokedexEntries[] =
     },
 
     [NATIONAL_DEX_SNORLAX] =
+    {
+        .categoryName = _("SLEEPING"),
+        .height = 21,
+        .weight = 4600,
+        .description = gSnorlaxPokedexText,
+        .unusedDescription = gSnorlaxPokedexTextUnused,
+        .pokemonScale = 275,
+        .pokemonOffset = 1,
+        .trainerScale = 408,
+        .trainerOffset = 7,
+    },
+
+     [NATIONAL_DEX_SNORLAX2] =
     {
         .categoryName = _("SLEEPING"),
         .height = 21,

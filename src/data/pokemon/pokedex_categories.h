@@ -316,6 +316,8 @@ static const u16 sDexCategory_WatersEdgePkmn_Page1[] = {
 static const u16 sDexCategory_WatersEdgePkmn_Page2[] = {
     SPECIES_MAGIKARP,
     SPECIES_GYARADOS,
+    SPECIES_MAGIKARP1,
+    SPECIES_GYARADOS1,
     SPECIES_KRABBY,
     SPECIES_KINGLER,
 };
@@ -626,6 +628,7 @@ static const u16 sDexCategory_MountainPkmn_Page12[] = {
 
 static const u16 sDexCategory_MountainPkmn_Page13[] = {
     SPECIES_SNORLAX,
+    SPECIES_SNORLAX2,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page14[] = {
@@ -640,6 +643,9 @@ static const u16 sDexCategory_MountainPkmn_Page16[] = {
     SPECIES_CHARMANDER,
     SPECIES_CHARMELEON,
     SPECIES_CHARIZARD,
+    SPECIES_CHARMANDER2,
+    SPECIES_CHARMELEON2,
+    SPECIES_CHARIZARD2,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page17[] = {
