@@ -104,7 +104,7 @@ Route4_PokemonCenter_1F_EventScript_PayForMagikarp::
 	message Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp
 	waitmessage
 	waitfanfare
-	bufferspeciesname STR_VAR_1, SPECIES_MAGIKARP
+	bufferspeciesname STR_VAR_1, SPECIES_MAGIKARP1
 	return
 
 Route4_PokemonCenter_1F_EventScript_DeclineMagikarp::

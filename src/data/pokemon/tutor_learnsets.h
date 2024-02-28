@@ -991,7 +991,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_THUNDER_WAVE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-                           [SPECIES_MAGIKARP1] = 0,
+        [SPECIES_MAGIKARP1] = 0,
 
     [SPECIES_GYARADOS1] = TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
