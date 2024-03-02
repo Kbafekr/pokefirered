@@ -271,13 +271,13 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_CHARIZARD2] =
     {
-        // 750 total
-        .baseHP = 120,
-        .baseAttack = 135,
-        .baseDefense = 110,
+        // 800 total
+        .baseHP = 130,
+        .baseAttack = 140,
+        .baseDefense = 120,
         .baseSpeed = 150,
-        .baseSpAttack = 135,
-        .baseSpDefense = 100,
+        .baseSpAttack = 150,
+        .baseSpDefense = 110,
         .types = {TYPE_FIRE, TYPE_DRAGON},
         .catchRate = 45,
         .expYield = 209,
