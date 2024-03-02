@@ -494,6 +494,44 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
+[NATIONAL_DEX_NIDORAN_M1] =
+    {
+        .categoryName = _("POISON PIN"),
+        .height = 5,
+        .weight = 90,
+        .description = gNidoranMPokedexText,
+        .unusedDescription = gNidoranMPokedexTextUnused,
+        .pokemonScale = 480,
+        .pokemonOffset = 17,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_NIDORINO1] =
+    {
+        .categoryName = _("POISON PIN"),
+        .height = 9,
+        .weight = 195,
+        .description = gNidorinoPokedexText,
+        .unusedDescription = gNidorinoPokedexTextUnused,
+        .pokemonScale = 408,
+        .pokemonOffset = 13,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_NIDOKING1] =
+    {
+        .categoryName = _("DRILL"),
+        .height = 14,
+        .weight = 620,
+        .description = gNidokingPokedexText,
+        .unusedDescription = gNidokingPokedexTextUnused,
+        .pokemonScale = 304,
+        .pokemonOffset = 3,
+        .trainerScale = 323,
+        .trainerOffset = 2,
+    },
     [NATIONAL_DEX_CLEFAIRY] =
     {
         .categoryName = _("FAIRY"),
@@ -1781,6 +1819,19 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 8,
     },
 
+    [NATIONAL_DEX_LAPRAS1] =
+    {
+        .categoryName = _("TRANSPORT"),
+        .height = 25,
+        .weight = 2200,
+        .description = gLaprasPokedexText,
+        .unusedDescription = gLaprasPokedexTextUnused,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 425,
+        .trainerOffset = 8,
+    },
+
     [NATIONAL_DEX_DITTO] =
     {
         .categoryName = _("TRANSFORM"),
@@ -1807,6 +1858,19 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = -2,
     },
 
+     [NATIONAL_DEX_EEVEE1] =
+    {
+        .categoryName = _("EVOLUTION"),
+        .height = 3,
+        .weight = 65,
+        .description = gEeveePokedexText,
+        .unusedDescription = gEeveePokedexTextUnused,
+        .pokemonScale = 476,
+        .pokemonOffset = 17,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
     [NATIONAL_DEX_VAPOREON] =
     {
         .categoryName = _("BUBBLE JET"),
@@ -1821,6 +1885,19 @@ const struct PokedexEntry gPokedexEntries[] =
     },
 
     [NATIONAL_DEX_JOLTEON] =
+    {
+        .categoryName = _("LIGHTNING"),
+        .height = 8,
+        .weight = 245,
+        .description = gJolteonPokedexText,
+        .unusedDescription = gJolteonPokedexTextUnused,
+        .pokemonScale = 283,
+        .pokemonOffset = 8,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+     [NATIONAL_DEX_JOLTEON1] =
     {
         .categoryName = _("LIGHTNING"),
         .height = 8,

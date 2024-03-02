@@ -190,6 +190,23 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 2,
     },
+
+    [SPECIES_NIDORAN_M1] =
+    {
+        .size = MON_COORDS_SIZE(40, 40),
+        .y_offset = 12,
+    },
+    [SPECIES_NIDORINO1] =
+    {
+        .size = MON_COORDS_SIZE(48, 48),
+        .y_offset = 8,
+    },
+    [SPECIES_NIDOKING1] =
+    {
+        .size = MON_COORDS_SIZE(64, 64),
+        .y_offset = 2,
+    },
+    
     [SPECIES_CLEFAIRY] =
     {
         .size = MON_COORDS_SIZE(40, 40),
@@ -685,6 +702,11 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 4,
     },
+      [SPECIES_LAPRAS1] =
+    {
+        .size = MON_COORDS_SIZE(64, 56),
+        .y_offset = 4,
+    },
     [SPECIES_DITTO] =
     {
         .size = MON_COORDS_SIZE(40, 32),
@@ -695,12 +717,22 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(40, 48),
         .y_offset = 13,
     },
+    [SPECIES_EEVEE1] =
+    {
+        .size = MON_COORDS_SIZE(40, 48),
+        .y_offset = 13,
+    },
     [SPECIES_VAPOREON] =
     {
         .size = MON_COORDS_SIZE(48, 56),
         .y_offset = 6,
     },
     [SPECIES_JOLTEON] =
+    {
+        .size = MON_COORDS_SIZE(48, 48),
+        .y_offset = 10,
+    },
+     [SPECIES_JOLTEON1] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 10,

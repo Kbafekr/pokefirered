@@ -22,6 +22,9 @@ static const u16 sDexCategory_GrasslandPkmn_Page4[] = {
     SPECIES_NIDORAN_M,
     SPECIES_NIDORINO,
     SPECIES_NIDOKING,
+    SPECIES_NIDORAN_M1,
+    SPECIES_NIDORINO1,
+    SPECIES_NIDOKING1,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page5[] = {
@@ -475,6 +478,7 @@ static const u16 sDexCategory_SeaPkmn_Page12[] = {
 
 static const u16 sDexCategory_SeaPkmn_Page13[] = {
     SPECIES_LAPRAS,
+    SPECIES_LAPRAS1,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page14[] = {
@@ -778,6 +782,8 @@ static const u16 sDexCategory_UrbanPkmn_Page11[] = {
     SPECIES_VAPOREON,
     SPECIES_JOLTEON,
     SPECIES_FLAREON,
+    SPECIES_EEVEE1,
+    SPECIES_JOLTEON1,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page12[] = {
