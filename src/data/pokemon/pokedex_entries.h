@@ -52,6 +52,44 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 6,
     },
 
+[NATIONAL_DEX_BULBASAUR2] =
+    {
+        .categoryName = _("SEED"),
+        .height = 7,
+        .weight = 69,
+        .description = gBulbasaurPokedexText,
+        .unusedDescription = gBulbasaurPokedexTextUnused,
+        .pokemonScale = 356,
+        .pokemonOffset = 16,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_IVYSAUR2] =
+    {
+        .categoryName = _("SEED"),
+        .height = 10,
+        .weight = 130,
+        .description = gIvysaurPokedexText,
+        .unusedDescription = gIvysaurPokedexTextUnused,
+        .pokemonScale = 332,
+        .pokemonOffset = 11,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_VENUSAUR2] =
+    {
+        .categoryName = _("SEED"),
+        .height = 20,
+        .weight = 1000,
+        .description = gVenusaurPokedexText,
+        .unusedDescription = gVenusaurPokedexTextUnused,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 375,
+        .trainerOffset = 6,
+    },
     [NATIONAL_DEX_CHARMANDER] =
     {
         .categoryName = _("LIZARD"),
@@ -157,6 +195,45 @@ const struct PokedexEntry gPokedexEntries[] =
     },
 
     [NATIONAL_DEX_BLASTOISE] =
+    {
+        .categoryName = _("SHELLFISH"),
+        .height = 16,
+        .weight = 855,
+        .description = gBlastoisePokedexText,
+        .unusedDescription = gBlastoisePokedexTextUnused,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 329,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SQUIRTLE2] =
+    {
+        .categoryName = _("TINY TURTLE"),
+        .height = 5,
+        .weight = 90,
+        .description = gSquirtlePokedexText,
+        .unusedDescription = gSquirtlePokedexTextUnused,
+        .pokemonScale = 412,
+        .pokemonOffset = 16,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_WARTORTLE2] =
+    {
+        .categoryName = _("TURTLE"),
+        .height = 10,
+        .weight = 225,
+        .description = gWartortlePokedexText,
+        .unusedDescription = gWartortlePokedexTextUnused,
+        .pokemonScale = 334,
+        .pokemonOffset = 9,
+        .trainerScale = 256,
+        .trainerOffset = -2,
+    },
+
+    [NATIONAL_DEX_BLASTOISE2] =
     {
         .categoryName = _("SHELLFISH"),
         .height = 16,

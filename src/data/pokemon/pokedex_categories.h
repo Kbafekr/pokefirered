@@ -136,6 +136,9 @@ static const u16 sDexCategory_GrasslandPkmn_Page23[] = {
     SPECIES_BULBASAUR,
     SPECIES_IVYSAUR,
     SPECIES_VENUSAUR,
+    SPECIES_BULBASAUR2,
+    SPECIES_IVYSAUR2,
+    SPECIES_VENUSAUR2,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page24[] = {
@@ -389,6 +392,9 @@ static const u16 sDexCategory_WatersEdgePkmn_Page13[] = {
     SPECIES_SQUIRTLE,
     SPECIES_WARTORTLE,
     SPECIES_BLASTOISE,
+    SPECIES_SQUIRTLE2,
+    SPECIES_WARTORTLE2,
+    SPECIES_BLASTOISE2,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page14[] = {

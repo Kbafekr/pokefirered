@@ -70,6 +70,27 @@ extern const u32 gMonShinyPalette_Charizard[];
 extern const u8 gMonIcon_Charizard[];
 extern const u8 gMonFootprint_Charizard[];
 
+extern const u32 gMonFrontPic_Bulbasaur2[];
+extern const u32 gMonPalette_Bulbasaur2[];
+extern const u32 gMonBackPic_Bulbasaur2[];
+extern const u32 gMonShinyPalette_Bulbasaur2[];
+extern const u8 gMonIcon_Bulbasaur2[];
+extern const u8 gMonFootprint_Bulbasaur2[];
+
+extern const u32 gMonFrontPic_Ivysaur2[];
+extern const u32 gMonPalette_Ivysaur2[];
+extern const u32 gMonBackPic_Ivysaur2[];
+extern const u32 gMonShinyPalette_Ivysaur2[];
+extern const u8 gMonIcon_Ivysaur2[];
+extern const u8 gMonFootprint_Ivysaur2[];
+
+extern const u32 gMonFrontPic_Venusaur2[];
+extern const u32 gMonPalette_Venusaur2[];
+extern const u32 gMonBackPic_Venusaur2[];
+extern const u32 gMonShinyPalette_Venusaur2[];
+extern const u8 gMonIcon_Venusaur2[];
+extern const u8 gMonFootprint_Venusaur2[];
+
 extern const u32 gMonFrontPic_Charmander2[];
 extern const u32 gMonPalette_Charmander2[];
 extern const u32 gMonBackPic_Charmander2[];
@@ -90,6 +111,28 @@ extern const u32 gMonBackPic_Charizard2[];
 extern const u32 gMonShinyPalette_Charizard2[];
 extern const u8 gMonIcon_Charizard2[];
 extern const u8 gMonFootprint_Charizard2[];
+
+extern const u32 gMonFrontPic_Squirtle2[];
+extern const u32 gMonPalette_Squirtle2[];
+extern const u32 gMonBackPic_Squirtle2[];
+extern const u32 gMonShinyPalette_Squirtle2[];
+extern const u8 gMonIcon_Squirtle2[];
+extern const u8 gMonFootprint_Squirtle2[];
+
+extern const u32 gMonFrontPic_Wartortle2[];
+extern const u32 gMonPalette_Wartortle2[];
+extern const u32 gMonBackPic_Wartortle2[];
+extern const u32 gMonShinyPalette_Wartortle2[];
+extern const u8 gMonIcon_Wartortle2[];
+extern const u8 gMonFootprint_Wartortle2[];
+
+extern const u32 gMonFrontPic_Blastoise2[];
+extern const u32 gMonPalette_Blastoise2[];
+extern const u32 gMonBackPic_Blastoise2[];
+extern const u32 gMonShinyPalette_Blastoise2[];
+extern const u8 gMonIcon_Blastoise2[];
+extern const u8 gMonFootprint_Blastoise2[];
+
 extern const u32 gMonFrontPic_Squirtle[];
 extern const u32 gMonPalette_Squirtle[];
 extern const u32 gMonBackPic_Squirtle[];
@@ -4116,6 +4159,9 @@ extern const u32 gFile_graphics_mail_retro_map_tilemap[];
 extern const u8 gMonIcon_Bulbasaur[];
 extern const u8 gMonIcon_Ivysaur[];
 extern const u8 gMonIcon_Venusaur[];
+extern const u8 gMonIcon_Bulbasaur2[];
+extern const u8 gMonIcon_Ivysaur2[];
+extern const u8 gMonIcon_Venusaur2[];
 extern const u8 gMonIcon_Charmander[];
 extern const u8 gMonIcon_Charmander2[];
 extern const u8 gMonIcon_Charmeleon[];
@@ -4125,6 +4171,9 @@ extern const u8 gMonIcon_Charizard2[];
 extern const u8 gMonIcon_Squirtle[];
 extern const u8 gMonIcon_Wartortle[];
 extern const u8 gMonIcon_Blastoise[];
+extern const u8 gMonIcon_Squirtle2[];
+extern const u8 gMonIcon_Wartortle2[];
+extern const u8 gMonIcon_Blastoise2[];
 extern const u8 gMonIcon_Caterpie[];
 extern const u8 gMonIcon_Metapod[];
 extern const u8 gMonIcon_Butterfree[];

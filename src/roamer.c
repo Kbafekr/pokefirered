@@ -86,11 +86,8 @@ void ClearRoamerData(void)
     default:\
         a = SPECIES_RAIKOU;\
         break;\
-    case SPECIES_BULBASAUR:\
+    case SPECIES_BULBASAUR2:\
         a = SPECIES_ENTEI;\
-        break;\
-    case SPECIES_CHARMANDER:\
-        a = SPECIES_SUICUNE;\
         break;\
     case SPECIES_CHARMANDER2:\
         a = SPECIES_SUICUNE;\

@@ -43,6 +43,7 @@ static const u16 sEasyChatGroup_Move1[] = {
     MOVE_FLAME_WHEEL,
     MOVE_FLAMETHROWER,
     MOVE_FLATTER,
+    MOVE_FLASH_CANNON,
     MOVE_FLY,
     MOVE_FOCUS_ENERGY,
     MOVE_FOCUS_PUNCH,

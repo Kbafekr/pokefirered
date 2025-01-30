@@ -40,6 +40,27 @@ const u32 gMonShinyPalette_Charizard[] = INCBIN_U32("graphics/pokemon/charizard/
 const u8 gMonIcon_Charizard[] = INCBIN_U8("graphics/pokemon/charizard/icon.4bpp");
 const u8 gMonFootprint_Charizard[] = INCBIN_U8("graphics/pokemon/charizard/footprint.1bpp");
 
+const u32 gMonFrontPic_Bulbasaur2[] = INCBIN_U32("graphics/pokemon/bulbasaur/front.4bpp.lz");
+const u32 gMonPalette_Bulbasaur2[] = INCBIN_U32("graphics/pokemon/bulbasaur/shiny.gbapal.lz");
+const u32 gMonBackPic_Bulbasaur2[] = INCBIN_U32("graphics/pokemon/bulbasaur/back.4bpp.lz");
+const u32 gMonShinyPalette_Bulbasaur2[] = INCBIN_U32("graphics/pokemon/bulbasaur/shiny.gbapal.lz");
+const u8 gMonIcon_Bulbasaur2[] = INCBIN_U8("graphics/pokemon/bulbasaur/icon.4bpp");
+const u8 gMonFootprint_Bulbasaur2[] = INCBIN_U8("graphics/pokemon/bulbasaur/footprint.1bpp");
+
+const u32 gMonFrontPic_Ivysaur2[] = INCBIN_U32("graphics/pokemon/ivysaur/front.4bpp.lz");
+const u32 gMonPalette_Ivysaur2[] = INCBIN_U32("graphics/pokemon/ivysaur/shiny.gbapal.lz");
+const u32 gMonBackPic_Ivysaur2[] = INCBIN_U32("graphics/pokemon/ivysaur/back.4bpp.lz");
+const u32 gMonShinyPalette_Ivysaur2[] = INCBIN_U32("graphics/pokemon/ivysaur/shiny.gbapal.lz");
+const u8 gMonIcon_Ivysaur2[] = INCBIN_U8("graphics/pokemon/ivysaur/icon.4bpp");
+const u8 gMonFootprint_Ivysaur2[] = INCBIN_U8("graphics/pokemon/ivysaur/footprint.1bpp");
+
+const u32 gMonFrontPic_Venusaur2[] = INCBIN_U32("graphics/pokemon/venusaur/front.4bpp.lz");
+const u32 gMonPalette_Venusaur2[] = INCBIN_U32("graphics/pokemon/venusaur/shiny.gbapal.lz");
+const u32 gMonBackPic_Venusaur2[] = INCBIN_U32("graphics/pokemon/venusaur/back.4bpp.lz");
+const u32 gMonShinyPalette_Venusaur2[] = INCBIN_U32("graphics/pokemon/venusaur/shiny.gbapal.lz");
+const u8 gMonIcon_Venusaur2[] = INCBIN_U8("graphics/pokemon/venusaur/icon.4bpp");
+const u8 gMonFootprint_Venusaur2[] = INCBIN_U8("graphics/pokemon/venusaur/footprint.1bpp");
+
 const u32 gMonFrontPic_Charmander2[] = INCBIN_U32("graphics/pokemon/charmander2/front.4bpp.lz");
 const u32 gMonPalette_Charmander2[] = INCBIN_U32("graphics/pokemon/charmander2/shiny.gbapal.lz");
 const u32 gMonBackPic_Charmander2[] = INCBIN_U32("graphics/pokemon/charmander2/back.4bpp.lz");
@@ -60,6 +81,27 @@ const u32 gMonBackPic_Charizard2[] = INCBIN_U32("graphics/pokemon/charizard2/bac
 const u32 gMonShinyPalette_Charizard2[] = INCBIN_U32("graphics/pokemon/charizard2/shiny.gbapal.lz");
 const u8 gMonIcon_Charizard2[] = INCBIN_U8("graphics/pokemon/charizard2/icon.4bpp");
 const u8 gMonFootprint_Charizard2[] = INCBIN_U8("graphics/pokemon/charizard2/footprint.1bpp");
+
+const u32 gMonFrontPic_Squirtle2[] = INCBIN_U32("graphics/pokemon/squirtle/front.4bpp.lz");
+const u32 gMonPalette_Squirtle2[] = INCBIN_U32("graphics/pokemon/squirtle/shiny.gbapal.lz");
+const u32 gMonBackPic_Squirtle2[] = INCBIN_U32("graphics/pokemon/squirtle/back.4bpp.lz");
+const u32 gMonShinyPalette_Squirtle2[] = INCBIN_U32("graphics/pokemon/squirtle/shiny.gbapal.lz");
+const u8 gMonIcon_Squirtle2[] = INCBIN_U8("graphics/pokemon/squirtle/icon.4bpp");
+const u8 gMonFootprint_Squirtle2[] = INCBIN_U8("graphics/pokemon/squirtle/footprint.1bpp");
+
+const u32 gMonFrontPic_Wartortle2[] = INCBIN_U32("graphics/pokemon/wartortle/front.4bpp.lz");
+const u32 gMonPalette_Wartortle2[] = INCBIN_U32("graphics/pokemon/wartortle/shiny.gbapal.lz");
+const u32 gMonBackPic_Wartortle2[] = INCBIN_U32("graphics/pokemon/wartortle/back.4bpp.lz");
+const u32 gMonShinyPalette_Wartortle2[] = INCBIN_U32("graphics/pokemon/wartortle/shiny.gbapal.lz");
+const u8 gMonIcon_Wartortle2[] = INCBIN_U8("graphics/pokemon/wartortle/icon.4bpp");
+const u8 gMonFootprint_Wartortle2[] = INCBIN_U8("graphics/pokemon/wartortle/footprint.1bpp");
+
+const u32 gMonFrontPic_Blastoise2[] = INCBIN_U32("graphics/pokemon/blastoise/front.4bpp.lz");
+const u32 gMonPalette_Blastoise2[] = INCBIN_U32("graphics/pokemon/blastoise/shiny.gbapal.lz");
+const u32 gMonBackPic_Blastoise2[] = INCBIN_U32("graphics/pokemon/blastoise/back.4bpp.lz");
+const u32 gMonShinyPalette_Blastoise2[] = INCBIN_U32("graphics/pokemon/blastoise/shiny.gbapal.lz");
+const u8 gMonIcon_Blastoise2[] = INCBIN_U8("graphics/pokemon/blastoise/icon.4bpp");
+const u8 gMonFootprint_Blastoise2[] = INCBIN_U8("graphics/pokemon/blastoise/footprint.1bpp");
 
 const u32 gMonFrontPic_Squirtle[] = INCBIN_U32("graphics/pokemon/squirtle/front.4bpp.lz");
 const u32 gMonPalette_Squirtle[] = INCBIN_U32("graphics/pokemon/squirtle/normal.gbapal.lz");

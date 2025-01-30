@@ -20,6 +20,21 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 4,
     },
+    [SPECIES_BULBASAUR2] =
+    {
+        .size = MON_COORDS_SIZE(40, 40),
+        .y_offset = 16,
+    },
+    [SPECIES_IVYSAUR2] =
+    {
+        .size = MON_COORDS_SIZE(48, 48),
+        .y_offset = 10,
+    },
+    [SPECIES_VENUSAUR2] =
+    {
+        .size = MON_COORDS_SIZE(64, 56),
+        .y_offset = 4,
+    },
     [SPECIES_CHARMANDER] =
     {
         .size = MON_COORDS_SIZE(40, 40),
@@ -61,6 +76,21 @@ const struct MonCoords gMonFrontPicCoords[] =
         .y_offset = 9,
     },
     [SPECIES_BLASTOISE] =
+    {
+        .size = MON_COORDS_SIZE(64, 56),
+        .y_offset = 5,
+    },
+    [SPECIES_SQUIRTLE2] =
+    {
+        .size = MON_COORDS_SIZE(48, 40),
+        .y_offset = 12,
+    },
+    [SPECIES_WARTORTLE2] =
+    {
+        .size = MON_COORDS_SIZE(56, 48),
+        .y_offset = 9,
+    },
+    [SPECIES_BLASTOISE2] =
     {
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 5,
@@ -206,7 +236,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 2,
     },
-    
+
     [SPECIES_CLEFAIRY] =
     {
         .size = MON_COORDS_SIZE(40, 40),
