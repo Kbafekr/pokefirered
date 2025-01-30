@@ -17501,7 +17501,7 @@
                 "min_level": 30,
                 "max_level": 30,
                 "species": "SPECIES_DELIBIRD"
-              },
+              }
             ],
             "encounter_rate": 7
           }
